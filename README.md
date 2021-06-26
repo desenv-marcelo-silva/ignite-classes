@@ -1,6 +1,6 @@
 # Created to follow classes on React
 
-# by RocketSeat Ignite (https://rocketseat.com.br/ignite)
+# by [RocketSeat Ignite](https://rocketseat.com.br/ignite)
 
 This project is to show React basics concepts.
 
